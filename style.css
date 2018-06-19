@@ -11,4 +11,32 @@
     /* or whatever width you want. */
    display: block;
 }
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
+/* Boxes */
+#boxes{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+#boxes .box{
+  text-align: center;
+  width:30%;
+  padding:100px;
+}
+
+#boxes .box img{
+  width:90px;
+}
 
