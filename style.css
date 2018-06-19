@@ -3,7 +3,7 @@
   text-align: right;
 }
 .container1{
-    background-image: url("lakme.jpg");
+  background-image: url("lakme.jpg");
   background-position: center center ;
   background-attachment: fixed;
   background-size: cover;
@@ -21,7 +21,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#000000;
   text-align: center;
 }
 /* Boxes */
