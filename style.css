@@ -1,8 +1,5 @@
-#container
-{
-  text-align: right;
-}
-.container1{
+
+#container{
   background-image: url("lakme.jpg");
   background-position: center center ;
   background-attachment: fixed;
@@ -10,6 +7,7 @@
   height:400px;
     /* or whatever width you want. */
    display: block;
+   text-align: right;
 }
 body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
