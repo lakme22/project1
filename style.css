@@ -1,10 +1,6 @@
 
 .container{
-  background-image:url("lakme.jpg");
-  background-position: center center ;
-  background-attachment: fixed;
-  background-size: cover;
-  height:400px;
+  
     /* or whatever width you want. */
    display: block;
    text-align: right;
