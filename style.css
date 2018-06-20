@@ -1,6 +1,6 @@
 
-#container{
-  background-image: url("lakme.jpg");
+.container{
+  background-image:url("lakme.jpg");
   background-position: center center ;
   background-attachment: fixed;
   background-size: cover;
