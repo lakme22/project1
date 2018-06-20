@@ -1,6 +1,9 @@
 
 #container{
-  
+  Background-image:url(IMG-20180329-WA0016.jpg);
+  Background-size: cover;
+  Background-position: center center;
+ Background-attachment: fixed;
     /* or whatever width you want. */
    display: block;
    text-align: right;
